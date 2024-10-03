@@ -37,7 +37,6 @@
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   </a>
-  <br>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   </a>
@@ -50,21 +49,30 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  </a>
 </p>
 
 ---
 
 <h2 align="left">📊 GitHub Stats:</h2>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishumat23&show_icons=true&locale=en&layout=compact" alt="abhishumat23" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishumat23&show_icons=true&locale=en&layout=compact&theme=dark" alt="abhishumat23" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishumat23&show_icons=true&locale=en" alt="abhishumat23" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishumat23&show_icons=true&locale=en&theme=dark" alt="abhishumat23" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishumat23&" alt="abhishumat23" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishumat23&theme=dark" alt="abhishumat23" />
 </p>
 
 ---
