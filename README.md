@@ -13,7 +13,7 @@
 
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/abhishumat singh beniwal](https://www.linkedin.com/in/abhishumat-singh-beniwal-200620269/" target="blank">
+  <a href="[https://linkedin.com/in/abhishumat singh beniwal](https://www.linkedin.com/in/abhishumat-singh-beniwal-200620269/)](https://www.linkedin.com/in/abhishumat-singh-beniwal-200620269/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/abhishumatt" target="blank">
