@@ -16,7 +16,7 @@
 ---
 
 ## 🔗 Connect With Me  
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/abhishumat-singh-beniwal-200620269/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
