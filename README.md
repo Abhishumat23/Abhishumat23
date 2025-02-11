@@ -1,87 +1,49 @@
-<h1 align="center" style="font-size: 3rem;">Hi 👋, I'm Abhishumat Singh Beniwal</h1>
-<h3 align="center" style="font-size: 1.5rem;">A passionate full-stack developer</h3>
+<h1 align="center" style="font-size: 3rem;">👋 Hey, I'm Abhishumat Singh Beniwal</h1>
+<h3 align="center" style="font-size: 1.5rem;">Full-Stack Developer | Tech Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&width=435&lines=Passionate+about+building+scalable+web+apps;Exploring+Cloud+Computing;Always+learning+new+technologies!" alt="Typing SVG">
+</p>
 
 ---
 
-- 🔭 I’m currently working on [Digiswasth](https://digiswasth-xi.vercel.app/)
-
-- 🌱 I’m currently learning **Cloud Platforms**
-
-- 📫 How to reach me **abhishumatbeniwal@gmail.com**
+## 🚀 About Me  
+- 🔭 Currently working on **[Digiswasth](https://digiswasth-xi.vercel.app/)**  
+- 🌱 Learning **Cloud Platforms** (AWS, GCP)  
+- 📬 Reach me at **abhishumatbeniwal@gmail.com**  
+- 🎯 Passionate about **full-stack development, cloud computing & AI**  
 
 ---
 
-<h2 align="left">🔗 Connect with me:</h2>
-<p align="left">
+## 🔗 Connect With Me  
+<p align="center">
   <a href="https://www.linkedin.com/in/abhishumat-singh-beniwal-200620269/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://instagram.com/abhishumatt" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
 ---
 
-<h2 align="left">💻 Languages and Tools:</h2>
-<p align="left">
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</a>
-  <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</a>
+## 💻 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,java,python,html,css,git,mysql,aws,linux" alt="Tech Stack">
 </p>
 
 ---
 
-<h2 align="left">📊 GitHub Stats:</h2>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishumat23&show_icons=true&locale=en&layout=compact&theme=dark" alt="abhishumat23" />
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishumat23&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishumat23&theme=radical&hide_border=true" alt="GitHub Streak">
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishumat23&show_icons=true&locale=en&theme=dark" alt="abhishumat23" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishumat23&theme=dark" alt="abhishumat23" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishumat23&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
 </p>
 
 ---
+
+### 🎯 Keep Building. Keep Learning. Keep Growing. 🚀
