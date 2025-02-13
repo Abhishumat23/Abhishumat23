@@ -8,7 +8,6 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on **[Digiswasth](https://digiswasth-xi.vercel.app/)**  
 - 🌱 Learning **Cloud Platforms** (AWS, GCP)  
 - 📬 Reach me at **abhishumatbeniwal@gmail.com**  
 - 🎯 Passionate about **full-stack development, cloud computing & AI**  
